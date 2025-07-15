@@ -61,12 +61,3 @@ This project utilizes the *SMS Spam Collection Dataset*, which comprises over 5,
     -   Recall (Spam): ~88%
     -   F1-Score (Spam): ~92%
 
-### Visualizations
-
-(Add your actual screenshots here. You can drag and drop images directly into the README editor on GitHub, or upload them to an images folder in your repo and link them.)
-
-*1. Confusion Matrix:*
-![Confusion Matrix](link_to_your_confusion_matrix_image.png)
-(Example: images/confusion_matrix.png)
-
-*2. Classification Report Snippet:*
